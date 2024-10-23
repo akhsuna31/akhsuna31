@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **UI/UX**
 
-- 💬 Ask me about **python and finance**
+- 💬 Ask me about **java and finance**
 
 - ⚡ Fun fact **I read. A lot.**
 
